@@ -1,0 +1,80 @@
+<meta http-equiv='Content-Type' content='application/vnd.ms-excel; charset=utf-8'/>
+
+<div class="table-view">
+		<table border="1">
+			<thead>
+				<tr>
+					<th scope="col">구분</th>
+					<th scope="col">조사면적(ha)</th>
+					<th scope="col">추정량(ton)</th>
+				</tr>
+			</thead>
+			<tbody>
+			<tr>
+					<td>2008</td>
+					<td>187575.9</td>
+					<td>6385.0</td>
+				</tr>
+					<tr>
+					<td>2009</td>
+					<td>331728.3</td>
+					<td>14731.6</td>
+				</tr>
+					<tr>
+					<td>2010</td>
+					<td>341119.0</td>
+					<td>6993.3</td>
+				</tr>
+					<tr>
+					<td>2011</td>
+					<td>62331.2</td>
+					<td>6730.4</td>
+				</tr>
+					<tr>
+					<td>2012</td>
+					<td>206574.2</td>
+					<td>3365.4</td>
+				</tr>
+					<tr>
+					<td>2013</td>
+					<td>214788.8</td>
+					<td>5257.9</td>
+				</tr>
+					<tr>
+					<td>2014</td>
+					<td>56061.1</td>
+					<td>2008.3</td>
+				</tr>
+					<tr>
+					<td>2015</td>
+					<td>40768.3</td>
+					<td>2085.8</td>
+				</tr>
+					<tr>
+					<td>2016</td>
+					<td>14098.0</td>
+					<td>3261.0</td>
+				</tr>
+					<tr>
+					<td>2017</td>
+					<td>22952.7</td>
+					<td>2545.5</td>
+				</tr>
+					<tr>
+					<td>2018</td>
+					<td>8958.5</td>
+					<td>1331.0</td>
+				</tr>
+					<tr>
+					<td>2019</td>
+					<td>23798.8</td>
+					<td>2924.9</td>
+				</tr>
+					<tr class="current">
+				<td>합계</td>
+				<td>1510754.8</td>
+				<td>57620.1</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>

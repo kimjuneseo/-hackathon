@@ -1,0 +1,3 @@
+search_key.addEventListener('input', function () {
+            input_value = this.value;
+            if (this.value != "") { //input받은 값이 공백이 아니면 if문 실행             let stat = stationList.data.filter((data) => { //staitionData 배열의 값들을 순차적으로 함수에 인자로 전달하고 실행하는것                 console.log(data.station_nm.indexOf(this.value))                 if (data.station_nm.indexOf(this.value) != -1) { //rc에 필터된 station_nm의 input에 친 값이 없으면 -1이 나오는데 -1아 아니면 if 실헹                     // let abc = data.station_nm[data.station_nm.indexOf(this.value)]                     // console.log(abc)                     let result = abc                     return result                 }             })              // console.log(stat)             // p.innerText = stat;         }     });
